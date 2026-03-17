@@ -209,4 +209,4 @@ __marimo__/
 # Other files to ignore
 temp/
 *api_key*
-*.ods
+*ods
